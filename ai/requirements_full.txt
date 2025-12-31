@@ -1,0 +1,21 @@
+# requirements_full.txt
+# Interface
+customtkinter==5.2.0
+Pillow==10.0.0
+
+# Système
+psutil==5.9.5
+pygetwindow==0.0.9
+pyautogui==0.9.54
+keyboard==0.13.5
+
+# AI & Web
+requests==2.31.0
+beautifulsoup4==4.12.2
+feedparser==6.0.10
+googletrans==4.0.0-rc1
+duckduckgo-search==3.9.4
+
+# Utilitaires
+pyperclip==1.8.2
+python-dateutil==2.8.2

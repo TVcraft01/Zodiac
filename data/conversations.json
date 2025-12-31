@@ -1,0 +1,23 @@
+[
+  {
+    "session_id": "20251230_205645",
+    "timestamp": "2025-12-30T20:56:45.641730",
+    "messages": [
+      {
+        "role": "user",
+        "content": "salut",
+        "timestamp": "2025-12-30T20:56:21.705391"
+      },
+      {
+        "role": "user",
+        "content": "tu parle anglais ?",
+        "timestamp": "2025-12-30T20:56:32.883342"
+      },
+      {
+        "role": "user",
+        "content": "?",
+        "timestamp": "2025-12-30T20:56:45.641585"
+      }
+    ]
+  }
+]

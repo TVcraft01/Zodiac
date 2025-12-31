@@ -11,7 +11,7 @@
   <p align="center">
     <b>Architecture Modulaire</b> • 
     <b>Reconnaissance Vocale</b> • 
-    <b>E-dex Design</b>
+    <b>Modern Design</b>
   </p>
 </div>
 
